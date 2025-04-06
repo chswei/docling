@@ -1,11 +1,6 @@
 # Docling PDF to Markdown Converter
 
-This project uses the Docling library to convert PDF files to Markdown format, extracting text content and images.
-
-## Official Documentation
-
-For detailed information about the Docling library, please refer to the official documentation:
-[https://github.com/docling-project/docling](https://github.com/docling-project/docling)
+This project uses the [Docling](https://github.com/docling-project/docling) library to convert PDF files to Markdown format, extracting text content and images.
 
 ## Requirements
 
