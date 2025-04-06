@@ -24,7 +24,7 @@ output_dir.mkdir(parents=True, exist_ok=True)
 
 pdf_pipeline_options = PdfPipelineOptions(
     do_table_structure=True, 
-    images_scale=1.0,       
+    images_scale=4.0,       # Increased scale for higher resolution images
     generate_picture_images=True 
 )
 
